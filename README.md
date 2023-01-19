@@ -5,22 +5,26 @@ In this case study we would like to focus on the main functionality of the Circu
 ## about task
 
 Material Database in Circulix with Durability Characteristics
+
 ![Getting Started](./images/1.png)
 
 Threshold Database of when a Physical Durability Characteristic is good or bad.
+
 ![Getting Started](./images/2.png)
 
 Material Mix and Durability Assessment Database (products can consist of different materials with a mix of “good” or “bad” durability values)
+
 ![Getting Started](./images/3.png)
 
 ## Case: Analyzing the V3 Summer 2022 Version of the product
 
 A designer from the brand would now provide Circulix with the Bill of Material data for each product, and would like to see how her product(s) performs on different circularity KPIs. She is interested especially in the KPI around Physical Durability. In the frontend application, when a designer of a brand logs in and her data of her product is uploaded into Circulix, the analysis of the version of the product is shown, such as:
-● Different circularity KPIs
-● The result of the assessment of the product on this KPI
-● A comparison to the Average of the company
-● A comparison to a Best-In-Class product from the industry
-● A recommendation, how the KPI can be improved
+
+- Different circularity KPIs
+- The result of the assessment of the product on this KPI
+- A comparison to the Average of the company
+- A comparison to a Best-In-Class product from the industry
+- A recommendation, how the KPI can be improved
 
 The data from the brand could look like this:
 
